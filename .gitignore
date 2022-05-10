@@ -1,0 +1,6 @@
+
+build/*
+.vscode/
+.DS_Store
+
+!build/SHT40.uf2
